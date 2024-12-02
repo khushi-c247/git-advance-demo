@@ -1,0 +1,4 @@
+Git's commit history works similarly to a linked list, where each commit points to its parent. This forms a chain of commits that builds the project history. The key difference is that Git's commit history can have multiple parents in the case of merges, making it a directed acyclic graph (DAG). more
+Use Cases:
+- History Tracking: Understand the project’s evolution and the relationships between commits.
+- Conflict Resolution: Analyze merge conflicts and their origins in the commit history.
